@@ -1,0 +1,15 @@
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\bin\Debug\net8.0\Task1-SayingHello.exe
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\bin\Debug\net8.0\Task1-SayingHello.deps.json
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\bin\Debug\net8.0\Task1-SayingHello.runtimeconfig.json
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\bin\Debug\net8.0\Task1-SayingHello.dll
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\bin\Debug\net8.0\Task1-SayingHello.pdb
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\Task1-SayingHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\Task1-SayingHello.AssemblyInfoInputs.cache
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\Task1-SayingHello.AssemblyInfo.cs
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\Task1-SayingHello.csproj.CoreCompileInputs.cache
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\Task1-SayingHello.sourcelink.json
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\Task1-SayingHello.dll
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\refint\Task1-SayingHello.dll
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\Task1-SayingHello.pdb
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\Task1-SayingHello.genruntimeconfig.cache
+C:\Übungen\exercises-for-programmers\Task1-SayingHello\obj\Debug\net8.0\ref\Task1-SayingHello.dll

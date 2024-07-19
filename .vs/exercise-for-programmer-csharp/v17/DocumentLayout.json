@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u00DCbungen\\exercises-for-programmers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2C1E8-1F07-4579-B32E-D0AD3C76912F}|Task1-SayingHello\\Task1-SayingHello.csproj|c:\\\u00FCbungen\\exercises-for-programmers\\task1-sayinghello\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2C1E8-1F07-4579-B32E-D0AD3C76912F}|Task1-SayingHello\\Task1-SayingHello.csproj|solutionrelative:task1-sayinghello\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA2C1E8-1F07-4579-B32E-D0AD3C76912F}|Task1-SayingHello\\Task1-SayingHello.csproj|c:\\\u00FCbungen\\exercises-for-programmers\\task1-sayinghello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA2C1E8-1F07-4579-B32E-D0AD3C76912F}|Task1-SayingHello\\Task1-SayingHello.csproj|solutionrelative:task1-sayinghello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "C:\\\u00DCbungen\\exercises-for-programmers\\Task1-SayingHello\\Challenge.cs",
+              "RelativeDocumentMoniker": "Task1-SayingHello\\Challenge.cs",
+              "ToolTip": "C:\\\u00DCbungen\\exercises-for-programmers\\Task1-SayingHello\\Challenge.cs",
+              "RelativeToolTip": "Task1-SayingHello\\Challenge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:20:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u00DCbungen\\exercises-for-programmers\\Task1-SayingHello\\Program.cs",
+              "RelativeDocumentMoniker": "Task1-SayingHello\\Program.cs",
+              "ToolTip": "C:\\\u00DCbungen\\exercises-for-programmers\\Task1-SayingHello\\Program.cs",
+              "RelativeToolTip": "Task1-SayingHello\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:07:57.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

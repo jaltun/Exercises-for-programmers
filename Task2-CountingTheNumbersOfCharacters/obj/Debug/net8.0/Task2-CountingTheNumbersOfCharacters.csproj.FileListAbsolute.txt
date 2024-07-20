@@ -1,0 +1,15 @@
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\bin\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.exe
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\bin\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.deps.json
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\bin\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.runtimeconfig.json
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\bin\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.dll
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\bin\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.pdb
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.AssemblyInfoInputs.cache
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.AssemblyInfo.cs
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.csproj.CoreCompileInputs.cache
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.sourcelink.json
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.dll
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\refint\Task2-CountingTheNumbersOfCharacters.dll
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.pdb
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\Task2-CountingTheNumbersOfCharacters.genruntimeconfig.cache
+C:\Übungen\exercises-for-programmers\Task2-CountingTheNumbersOfCharacters\obj\Debug\net8.0\ref\Task2-CountingTheNumbersOfCharacters.dll

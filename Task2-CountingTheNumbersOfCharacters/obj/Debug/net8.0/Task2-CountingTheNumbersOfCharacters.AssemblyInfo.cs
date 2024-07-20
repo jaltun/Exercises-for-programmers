@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task2-CountingTheNumbersOfCharacters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3917e4ab55582be396fa9ad3dda857e6fbcc1492")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6808705c90881a91feb4078cfc79739f768fc38")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task2-CountingTheNumbersOfCharacters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task2-CountingTheNumbersOfCharacters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
